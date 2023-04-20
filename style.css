@@ -1,0 +1,70 @@
+.list a {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #7d7d7d;
+  text-decoration: none;
+}
+.list {
+  list-style-type: none;
+}
+.list a:hover {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #03a9f4;
+}
+.foto {
+  width: 420px;
+  list-style-type: none;
+}
+.tittle {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #b4ad9e;
+}
+.tittle_decription {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+  /* identical to box height */
+
+  color: #626262;
+}
+.text {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #626262;
+}
+button {
+  width: 165px;
+  height: 60px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  background-color: #ffffff;
+  color: #626262;
+  cursor:pointer
+}

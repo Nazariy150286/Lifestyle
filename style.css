@@ -68,3 +68,24 @@ button {
   color: #626262;
   cursor:pointer
 }
+.lists{
+display: flex;
+margin: 0 auto;
+justify-content:space-around;
+width: 555px;
+padding: 70px 0 90px;
+}
+.fotos{
+display: flex;
+width: 906px;
+flex-wrap:wrap ;
+justify-content:space-between  ;
+margin: auto;
+}
+.button{
+display: block;
+padding: 0;
+justify-content: center;
+margin: auto;
+border: black;
+}
